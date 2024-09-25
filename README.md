@@ -7,12 +7,12 @@ Will need the `Pillow` writer
 pip3 install pillow
 ```
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <img src="patterns/pattern_0.png" alt="Original pattern" style="width: 30%; height: auto;"/>
   <img src="patterns/HP_ani_pat0.gif" alt="Reconstruction" style="width: 50%; height: auto;"/>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <img src="patterns/pattern_1.png" alt="Original pattern" style="width: 30%; height: auto;"/>
   <img src="patterns/HP_ani_pat1.gif" alt="Reconstruction" style="width: 50%; height: auto;"/>
 </div>
